@@ -14,7 +14,7 @@ And finally the python gui version is **PiScreenRecGUIpython**.
 ## How to install PiScreenRec
 For the script versions wich are **PiScreenRec** and **PiScreenRecGUI** just download them.
 
-But for the python version download the **PiScreenRecGUIpython.sh** file, and type in the downloaded folder `sh PiScreenRecGUIpython.sh`
+But for the python version download the **PiScreenRecGUIpython.sh** file, and type in the folder that you downloaded it `sh PiScreenRecGUIpython.sh`
 
 
 ## How to use PiScreenRec
