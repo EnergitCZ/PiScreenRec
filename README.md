@@ -20,6 +20,6 @@ But for the python version download the **PiScreenRecGUIpython.sh** file, and ty
 ## How to use PiScreenRec
 For the no gui version it is `sh PiScreenRec.sh`
 
-For the script gui version it is `PiScreenRecGUI.sh`
+For the script gui version it is `sh PiScreenRecGUI.sh`
 
 And for the python gui version it is `sh start.sh`
