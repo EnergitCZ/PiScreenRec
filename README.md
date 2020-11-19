@@ -59,3 +59,9 @@ Also both script versions have an extra option wich you can select with `sh PiSc
 5: Record what you want to
 
 6: End the recording with pressing 'q' in the console
+
+## Other Things
+
+The project is licensed under Apache 2.0
+
+Raspberry Forums post: https://www.raspberrypi.org/forums/viewtopic.php?f=38&t=291623
