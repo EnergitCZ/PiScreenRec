@@ -65,3 +65,9 @@ Also both script versions have an extra option wich you can select with `sh PiSc
 The project is licensed under Apache 2.0
 
 Raspberry Forums post: https://www.raspberrypi.org/forums/viewtopic.php?f=38&t=291623
+
+## Known issues
+
+Python gui - if you want to record sound then you need to close the gui
+
+Script nogui - there is no sound option
