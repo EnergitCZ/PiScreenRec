@@ -1,4 +1,7 @@
 # PiScreenRec
+
+# !! This project is no longer maintained due to OBS working on the pi !!
+
 ## What is PiScreenRec
 PiScreenRec is an opensource screen recorder written in Python and Linux Shell Script
 
